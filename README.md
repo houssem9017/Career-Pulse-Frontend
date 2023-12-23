@@ -37,8 +37,6 @@ Follow these instructions to set up the frontend environment on your local machi
 ![scrnli_12_18_2023_4-48-44 PM](https://github.com/houssem9017/Career-Pulse-Frontend/assets/61373518/0a995ffb-dd60-4119-8171-6b36f8e853d5)
 ![scrnli_12_18_2023_4-48-58 PM](https://github.com/houssem9017/Career-Pulse-Frontend/assets/61373518/ed81d677-c06d-4631-bbc5-95a655fd1995)
 
-## Deployment
-Information on how to deploy the frontend part of the application.
 
 ## License
 
