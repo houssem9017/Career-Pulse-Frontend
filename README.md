@@ -18,7 +18,7 @@ Follow these instructions to set up the frontend environment on your local machi
 ### Installation
 1. Clone the repo
    ```bash
-   git clone [(https://github.com/houssem9017/Career-Pulse-Frontend)]
+   git clone (https://github.com/houssem9017/Career-Pulse-Frontend)
    ```
 2. Switch to the frontend branch
    ```bash
